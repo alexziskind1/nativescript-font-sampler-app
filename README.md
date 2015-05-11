@@ -1,1 +1,1 @@
-# nativescript-font-sampler-app
+# nativescript-font-sampler-app (aka KEEP CALM)
