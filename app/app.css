@@ -1,0 +1,21 @@
+page {
+    background-color: #3d5afe;   
+    color: #ffffff;
+}
+
+.title {
+    font-size: 30;
+    horizontal-align: center;
+    text-align: center;
+    margin:5;
+}
+
+.lblwrapper {
+    margin: 0;
+}
+
+.pickerWrapper {
+    margin-top: 20;
+    margin-left:20;
+}
+

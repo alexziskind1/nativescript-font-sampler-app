@@ -1,0 +1,9 @@
+<Page xmlns="http://www.nativescript.org/tns.xsd" loaded="pageLoaded">
+    <GridLayout rows="*, *">
+        <StackLayout row="0" cssClass="lblwrapper">
+            <Image src="~/res/n_crown.png" stretch="fill" width="35" height="50" />
+            <Label  text="{{ message }}" cssClass="title" loaded="labelLoaded" textWrap="true" />
+        </StackLayout>
+        <StackLayout row="1" loaded="layoutLoaded" cssClass="pickerWrapper"></StackLayout> 
+    </GridLayout>
+</Page>
